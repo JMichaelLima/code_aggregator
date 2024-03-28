@@ -81,7 +81,7 @@ class FileFinder:
 if __name__ == '__main__':
     initialize_logging()
     root_path = os.path.dirname(os.path.abspath(__file__))
-    folders_to_search = ['lib', 'bin', 'resources'] # Edit folders as needed
+    folders_to_search = ['lib', 'bin', 'resources'] # Edit folders as needed, './' for current folder
     output_filename = 'current-code.txt'
     extensions = {'.ts', '.tsx', '.js', '.jsx', '.css'}  # Edit extensions as needed
 
