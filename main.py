@@ -83,7 +83,7 @@ if __name__ == '__main__':
     root_path = os.path.dirname(os.path.abspath(__file__))
     folders_to_search = ['lib', 'bin', 'resources']
     output_filename = 'current-code.txt'
-    extensions = {'.ts', '.tsx', '.js', '.jsx', '.css'}  # Add any other web development-related extensions as needed
+    extensions = {'.ts', '.tsx', '.js', '.jsx', '.css'}  # Add any other extensions as needed
 
     file_finder = FileFinder(root_path, folders_to_search, output_filename, extensions)
     file_finder.run()
