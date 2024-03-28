@@ -20,7 +20,7 @@ The Code Aggregator is a Python tool for developers to efficiently compile code 
 
 1. **Configure the Script**: Modify the script settings to specify the folders and file extensions you wish to aggregate. This customization is key to making the tool fit your unique requirements.
 2. **Run the Aggregator**: Launch the script to commence the search through your designated directories, compiling files that match your specified criteria into a single document, complete with informative headers for each file.
-3. **Engage in Analysis**: With your entire codebase presented in a single document, augmented by the context of file paths and names, engaging with AI tools for code analysis becomes a more intuitive and effective process.
+3. **Engage in Analysis**: With your entire codebase presented in a single .txt file (defaults to 'current-code.txt'), augmented by the context of file paths and names, engaging with AI tools for code analysis becomes a more intuitive and effective process.
 
 
 ### Conclusion
