@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Code Aggregator is a Python tool crafted for developers to efficiently compile code from specified directories and file types into a single file. This utility stands out by not only aggregating code but also by prefixing each section with the file's path and name, providing clear context for each piece of code. This feature is particularly useful for AI analysis, where understanding the structure and organization of a codebase can greatly enhance the insights provided.
+The Code Aggregator is a Python tool for developers to efficiently compile code from specified directories and file types into a single file. This utility stands out by not only aggregating code but also by prefixing each section with the file's path and name, providing clear context for each piece of code. This feature is particularly useful for AI analysis, where understanding the structure and organization of a codebase can greatly enhance the insights provided.
 
 ## Features
 
